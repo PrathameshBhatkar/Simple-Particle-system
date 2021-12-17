@@ -29,7 +29,7 @@
 # About The Project
 
 There are many ways to create particles in pygame (a python package), but I didn't find any one of it that is simple to
-use, fast and beginner-friendly. In my opinion this is the best particle generated you will ever need
+use, fast and beginner-friendly. In my opinion this is the best particle generater you will ever need
 
 Here's why:
 
